@@ -318,3 +318,9 @@ TypeError: Query.filter_by() takes 1 positional argument but 2 were given
 [2023-02-19 22:18:11,349] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:18:11] "GET / HTTP/1.1" 200 -
 [2023-02-19 22:18:20,057] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:18:20] "GET /category-courses/62cd977d53f5fe167f6b9b04 HTTP/1.1" 200 -
 [2023-02-19 22:18:22,145] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:18:22] "GET /course/PowerBI-Foundation HTTP/1.1" 200 -
+[2023-02-19 22:57:00,169] INFO None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-19 22:57:00,171] INFO None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-19 22:57:14,839] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:57:14] "GET / HTTP/1.1" 200 -
+[2023-02-19 22:57:18,609] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:57:18] "GET /category-courses/62cd959d53f5fe14766b9ae5 HTTP/1.1" 200 -
+[2023-02-19 22:57:20,969] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:57:20] "GET /course/Full-Stack-Data-Science-Feb'21-Batch HTTP/1.1" 200 -
